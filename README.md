@@ -1,5 +1,5 @@
-# We-Rate-Dogs
-Data Wrangling which involves gathering, assessing and cleaning of data from a twitter account. It is part of the requirements for the Udacity Data Analyst Nanodegree Program.
+# We-Rate-Dogs 
+Data Wrangling which involves gathering, assessing and cleaning of data from different sources e.g. a twitter account. It is part of the requirements for the Udacity Data Analyst Nanodegree Program.
 
 
 #### BY FABI DANIEL
